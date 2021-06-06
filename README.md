@@ -1,0 +1,2 @@
+# compartida
+Un repositorio simple
